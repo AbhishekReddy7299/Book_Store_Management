@@ -11,8 +11,8 @@
 	<groupId>com.obsm</groupId>
 	<artifactId>obsm-admin-module</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>obsm-admin-module</name>
-	<description>admin module for bookstore application</description>
+	<name>obsm-customer-module</name>
+	<description>customer module for bookstore application</description>
 
 	<properties>
 		<java.version>1.8</java.version>
